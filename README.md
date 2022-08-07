@@ -1,4 +1,4 @@
-# Machine Learning - Diabetes Prediction
+# Machine Learning - Diabetes Prediction MINOR PROJECT
 **Description**
 <br />Create a machine learning model to predict that the person has diabetes or not.
 
